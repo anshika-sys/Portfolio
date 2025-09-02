@@ -579,7 +579,7 @@ body {
   }
 
   .About-me img {
-    margin: 0 auto;
+    margin: 10px auto;
   }
 
   .tech-grid {
@@ -632,7 +632,7 @@ body {
   }
 
   .about-text h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .tech-grid {
